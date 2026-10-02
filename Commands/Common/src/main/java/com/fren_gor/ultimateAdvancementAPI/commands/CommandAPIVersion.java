@@ -81,7 +81,8 @@ public enum CommandAPIVersion {
             "hJqFwY4A98ZoIFI/YtKxC4gnV8bX+GmmB9brSl6XsYI=",
             "12_0_0",
             List.of(
-                    "v26_2_R1"
+                    "v26_2_R1",
+                    "v26_3_R1"
             )
     );
 
