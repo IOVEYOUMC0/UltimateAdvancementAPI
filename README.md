@@ -96,6 +96,11 @@ In order to compile the code you must be using (at least) the Java version requi
 
 This project is licensed under the [GNU Lesser General Public License v3.0 or later](https://www.gnu.org/licenses/lgpl-3.0.txt).
 
+This repository is a fork of [frengor/UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI)
+and inherits its LGPL-3.0-or-later terms. The `LICENSE` file holds the full GPL-3.0 text and
+`COPYING.LESSER` the LGPL-3.0 additional permissions, which together make up LGPL-3.0; the `LGPL` file is the
+same LGPL text under its short name.
+
 ## Credits
 
 This repository is a fork of [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI),
