@@ -1,18 +1,29 @@
-# UltimateAdvancementAPI
-[![Build Status main Branch](https://jenkins.frengor.com/job/UltimateAdvancementAPI/job/main/badge/icon?subject=main&style=flat)](https://jenkins.frengor.com/job/UltimateAdvancementAPI/job/main/)
-[![Build Status dev Branch](https://jenkins.frengor.com/job/UltimateAdvancementAPI/job/dev/badge/icon?subject=dev&style=flat)](https://jenkins.frengor.com/job/UltimateAdvancementAPI/job/dev/)
-[![License](https://img.shields.io/badge/license-LGPL--3.0-orange?style=flat)](https://github.com/frengor/UltimateAdvancementAPI/blob/main/LGPL)
-[![Version](https://img.shields.io/badge/version-2.8.0-blue?style=flat&color=007ec6)](https://jenkins.frengor.com/job/UltimateAdvancementAPI/)
-[![Issues](https://img.shields.io/github/issues/frengor/UltimateAdvancementAPI?style=flat)](https://github.com/frengor/UltimateAdvancementAPI/issues)
-[![Stars](https://img.shields.io/github/stars/frengor/UltimateAdvancementAPI?style=flat)](https://github.com/frengor/UltimateAdvancementAPI/stargazers)
-[![Forks](https://img.shields.io/github/forks/frengor/UltimateAdvancementAPI?style=flat)](https://github.com/frengor/UltimateAdvancementAPI/network)
-[![Contributors](https://img.shields.io/github/contributors/frengor/UltimateAdvancementAPI?style=flat)](https://github.com/frengor/UltimateAdvancementAPI/graphs/contributors)
+<h1 align="center">UltimateAdvancementAPI</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-LGPL--3.0--or--later-orange" alt="License: LGPL-3.0-or-later">
+  <img src="https://img.shields.io/badge/Minecraft-1.21.5%20%2F%201.21.11%20%2F%2026.x-3fb950" alt="Minecraft 1.21.5 / 1.21.11 / 26.x">
+  <img src="https://img.shields.io/badge/API-2.8.0-blue" alt="API 2.8.0">
+  <img src="https://img.shields.io/badge/fork%20of-frengor%2FUltimateAdvancementAPI-007ec6" alt="Fork of frengor/UltimateAdvancementAPI">
+</p>
+
+<p align="center"><i>A powerful API to create custom advancements for your Minecraft server, forked here with NMS variants for Minecraft 1.21.5, 1.21.11 and 26.x.</i></p>
+
+---
+
+## About
 
 A powerful API to create custom advancements for your minecraft server.
 
-![Advancement Tab Image](https://github.com/frengor/UltimateAdvancementAPI/wiki/images/spigot-photo.png)
+This repository is a **fork** of [frengor](http://frengor.com)'s
+[UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI), whose authors are **frengor**
+and **EscanorTargaryen**. The fork keeps the older 1.21.x NMS layers and carries the 1.21.5 (`v1_21_R4`),
+1.21.11 (`v1_21_R7`) and 26.x (`v26_1_R2`, `v26_2_R1`, `v26_3_R1`) variants used by this server family. It
+follows the upstream license, [LGPL-3.0-or-later](https://www.gnu.org/licenses/lgpl-3.0.txt).
 
-> [!IMPORTANT]
+The links below point at the **upstream** project, not at this fork; the fork does not run its own CI,
+Javadoc or wiki.
+
 > **3.0.0 Beta** is available on the [`main-3.0.0` branch](https://github.com/frengor/UltimateAdvancementAPI/tree/main-3.0.0). Download the beta from Modrinth on Hangar (links below).  
 > The Javadoc for the beta is published [here](https://frengor.com/javadocs/UltimateAdvancementAPI/3.0.0-beta-1/).
 
@@ -86,6 +97,10 @@ In order to compile the code you must be using (at least) the Java version requi
 This project is licensed under the [GNU Lesser General Public License v3.0 or later](https://www.gnu.org/licenses/lgpl-3.0.txt).
 
 ## Credits
+
+This repository is a fork of [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI),
+originally by **[frengor](http://frengor.com)** together with **EscanorTargaryen**. The fork adds the
+1.21.5 / 1.21.11 / 26.x NMS variants and follows the upstream license, **LGPL-3.0-or-later**.
 
 UltimateAdvancementAPI has been made by [fren_gor](https://github.com/frengor) and [EscanorTargaryen](https://github.com/EscanorTargaryen).  
 The API uses the following libraries:
